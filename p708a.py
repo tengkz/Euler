@@ -25,4 +25,3 @@ for i in range(M):
         prime[t]=i
         t+=1
 print num_prime
-print prime

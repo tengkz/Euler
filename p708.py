@@ -1,6 +1,6 @@
 import math
 
-M = 100000001
+M = 101
 num = range(M)
 factor_num = [0 for i in range(M)]
 
